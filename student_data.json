@@ -1,0 +1,26 @@
+{
+  "students": {
+    "S001": {
+      "name": "Sami",
+      "age": 22,
+      "address": "Dhaka",
+      "student_id": "S001",
+      "grades": {
+        "Physics": "A"
+      },
+      "courses": [
+        "Physics"
+      ]
+    }
+  },
+  "courses": {
+    "PHY101": {
+      "course_name": "Physics",
+      "course_code": "PHY101",
+      "instructor": "Dr.ABC",
+      "students": [
+        "S001"
+      ]
+    }
+  }
+}
